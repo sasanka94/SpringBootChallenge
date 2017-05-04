@@ -1,9 +1,7 @@
 package com.sasanka.springboot.model;
 
 import org.springframework.web.multipart.MultipartFile;
-
 import java.util.Arrays;
-
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
